@@ -1,0 +1,83 @@
+.navbar-brand img{
+	width:200px;
+	height:100px;
+}
+
+#nav-list{
+	margin: 70px 100px 10px 100px;
+}
+
+#nav-right{
+	margin:70px 0px 10px 0px;
+}
+
+#myCarousel{
+	margin-top: 200px;
+}
+.carousel-caption a h2{
+color: white;
+text-decoration-line: white;
+}
+#featuresHeading{
+	margin-top: 100px;
+
+}
+ hr{
+	border: 2px solid #000;
+}
+.panel img{
+	width:340px;
+	height:400px;
+
+}
+footer{
+	background:black;
+	color: #eee;
+	font-size: 11px;
+	margin-top: 10px;
+	padding: 20px;
+}
+
+#foot_list li{
+	display: inline;
+	list-style-type: none;
+	margin-left: 200px;
+
+}
+.jumbotron{
+	 
+	margin-top: 200px;
+	background-color: #fff;
+}
+.jumbotron img{
+	background-color: #fff;
+    width:1000px;
+
+	
+}
+.story1 img{
+	height: 400px;
+	width: 325px;
+}
+.moreStories h2{
+	margin-right: 20px;
+
+}
+
+.navbar-fixed-top{
+	background-color:black;
+}
+.dropdown-menu li a{
+	color:black;
+}
+ #nav-right li a,#nav-list li a{
+	color: white;
+}
+#copy{
+	margin-top: 200px;
+	margin-left: 450px;
+}
+
+
+
+
